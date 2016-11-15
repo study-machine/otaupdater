@@ -12,22 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u49_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1371px;
-  height:270px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:18px;
-}
-#u49 {
+#u0 {
   position:absolute;
   left:107px;
   top:60px;
@@ -35,7 +20,14 @@
   height:270px;
   font-size:18px;
 }
-#u50 {
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1371px;
+  height:270px;
+}
+#u1 {
   position:absolute;
   left:0px;
   top:0px;
